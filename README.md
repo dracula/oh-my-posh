@@ -1,20 +1,21 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Oh My Posh](https://ohmyposh.dev/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Oh My Posh](https://ohmyposh.dev/).
 
-![Screenshot](./screenshot.png)
+![dracula](https://user-images.githubusercontent.com/26419401/161795360-7a020176-652d-4f9b-87fb-ef8fc95ab59d.png)
+
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+🏗️ All instructions can be found at [draculatheme.com/ohmyposh](https://draculatheme.com/ohmyposh).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/ohmyposh/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![Zeno Rocha](https://avatars.githubusercontent.com/u/26419401?v=4?size=100)](https://github.com/Gary-H9) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [GazBuilds](https://github.com/Gary-H9)                                               |
 
 ## Community
 
