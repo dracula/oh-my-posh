@@ -16,7 +16,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 | [![Gary-H9](https://avatars.githubusercontent.com/u/26419401?v=4?size=100)](https://github.com/Gary-H9) |
 | ---------------------------------------------------------------------------------------- |
-| [GazBuilds](https://github.com/Gary-H9)                                               |
+| [Gary-H9](https://github.com/Gary-H9)                                               |
 
 ## Community
 
