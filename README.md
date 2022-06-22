@@ -14,7 +14,7 @@ All instructions can be found at [draculatheme.com/oh-my-posh](https://draculath
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/oh-my-posh/graphs/contributors).
 
-| [![Gary-H9](https://avatars.githubusercontent.com/u/26419401?v=4&size=100)](https://github.com/Gary-H9) | [![brccabral](https://avatars.githubusercontent.com/u/130455?v=4&size=100)](https://github.com/Gary-H9) |
+| [![Gary-H9](https://avatars.githubusercontent.com/u/26419401?v=4&size=100)](https://github.com/Gary-H9) | [![brccabral](https://avatars.githubusercontent.com/u/130455?v=4&size=100)](https://github.com/brccabral) |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [Gary-H9](https://github.com/)                                               | [brccabral](https://github.com/brccabral)                                               |
 
