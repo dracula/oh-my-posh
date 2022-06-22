@@ -6,7 +6,7 @@ To install [Oh My Posh](https://ohmyposh.dev) on MacOS/Windows/Linux follow docu
 
 #### Activating Theme 
 
-For instructions on activating this theme in powershell, cmd, xsh, bash, fish and nu please refer to the documentation [here](https://ohmyposh.dev/docs/installation/prompt). 
+For instructions on activating this theme in powershell, cmd, xsh, bash, fish and nu please refer to the documentation [here](https://ohmyposh.dev/docs/installation/customize). 
 
 #### Information
 
